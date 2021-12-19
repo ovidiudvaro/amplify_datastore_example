@@ -1,0 +1,1 @@
+# amplify_datastore_example
